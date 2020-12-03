@@ -1,6 +1,6 @@
 {
   "name": "react-audible-debug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Debug your react apps with your ears",
   "main": "dist/index.js",
   "scripts": {
