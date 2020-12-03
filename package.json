@@ -1,0 +1,37 @@
+{
+  "name": "react-audible-debug",
+  "version": "1.0.0",
+  "description": "Debug your react apps with your ears",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomhicks/react-audible-debug"
+  },
+  "bugs": {
+    "url": "https://github.com/tomhicks/react-audible-debug/issues"
+  },
+  "keywords": [
+    "react",
+    "debug",
+    "react",
+    "audible",
+    "audible",
+    "debugging"
+  ],
+  "author": "Tom Hicks",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  },
+  "dependencies": {
+    "audible-debug": "^1.0.1"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1"
+  }
+}
